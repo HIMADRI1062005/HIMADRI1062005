@@ -58,7 +58,7 @@
 <h1 align="center">🛠️ Tech Stack</h1>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,git,github,vscode,mysql" />
 </p>
 
 ---
