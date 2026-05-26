@@ -70,35 +70,25 @@
 </p>
 
 ---
+# 📊  My GitHub Stats:
 
-<h1 align="center">📊 My GitHub Stats :)</h1>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=HIMADRI1062005&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+</p>
 
-<div align="center">
-  
-### 👀 Visitor's Count
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HIMADRI1062005&theme=dark&hide_border=false" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=HIMADRI1062005&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HIMADRI1062005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 
-</div>
+---
 
-<br>
-
-<div align="center">
-
-### 📈 Profile Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=HIMADRI1062005&count_private=true&show_icons=true&theme=gotham" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HIMADRI1062005&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" />
-
-</div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HIMADRI1062005&icon=0&color=0" />
+</p>
 ---
 
 <h1 align="center">🏆 GitHub Trophies</h1>
