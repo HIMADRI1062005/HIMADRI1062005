@@ -45,15 +45,6 @@
 </p>
 
 ---
----
-
-<h1 align="center">🐍 Contribution Snake</h1>
-<!-- Snake Game Repo View -->
-
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 <h1 align="center">🛠️ Tech Stack</h1>
 
@@ -84,19 +75,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HIMADRI1062005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HIMADRI1062005&icon=0&color=0" />
-</p>
----
-
-<h1 align="center">🏆 GitHub Trophies</h1>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HIMADRI1062005&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
